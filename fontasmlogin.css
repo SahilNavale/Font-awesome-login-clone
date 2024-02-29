@@ -1,0 +1,107 @@
+ body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+   
+ }
+ main{
+    display: flex;
+    justify-content: center;
+    background-image: url(../practies/fs-bg.svg);
+    background-size:auto;
+    background-repeat: repeat;
+    height: 100vh;
+ }
+ form{
+    margin-top: 40px;
+    width: 20%;
+    height: 75vh;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0px 40px  15px 40px;
+    background-color: #ffffff;
+    position: relative;
+
+ }
+ #div1{
+    text-align: center;
+ }
+
+ #div2{
+    display: block;
+    justify-content: center;
+    text-align: left;
+    position: relative;
+ }
+input{
+    width: 95%;
+    height: 45px;
+
+    border: 2px solid  #183153; ;
+    border-radius: 10px ;
+   
+    background-color:  #e8f0fe;
+  
+    text-align: center;
+    font-size: medium;
+    margin-top: 10p;
+    margin-left: 10px;
+    margin-bottom: var(--spacing-2xs) !important;
+}
+
+button{
+
+    width: 95%;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #ffd43b;
+    box-shadow: 0px  8px  1px black;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 400;
+
+
+}
+#chek{
+    width: 14px;
+    height: 14px;
+}
+.il{
+    margin-left: 10px;
+    
+}
+.ab{
+    font-family: "Fredoka", sans-serif;
+    color: #183153;
+}
+.ylo{
+    color: #ffd43b;
+   
+}
+#wb{
+    color: 
+    #fab014;
+}
+#h31{
+    font-weight: 400;
+    color: black;
+    font-family: "Quicksand", sans-serif;
+}
+.sd{
+    position: absolute;
+    top: 123px;
+    left: 25px;
+   
+}
+.bd{
+    position: absolute;
+  
+    top: 38px;
+    left: 25px;
+}
+p{
+    position: absolute;
+    top: 600px;
+
+}
